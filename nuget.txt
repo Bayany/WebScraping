@@ -1,2 +1,0 @@
-dotnet add package ScrapySharp --version 3.0.0
-dotnet add package Newtonsoft.Json --version 12.0.3
